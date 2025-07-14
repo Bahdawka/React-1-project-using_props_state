@@ -34,6 +34,9 @@ src/
    ```
 3. Відкрийте браузер за адресою [http://localhost:5173](http://localhost:5173) (або порт, вказаний у консолі).
 
+### Розгортання React Vite проекту на Vercel
+  посилання на перегляд проекту: https://react-1-project-using-props-state-git-main-bahdawkas-projects.vercel.app
+
 ---
 
 ## Project Description (English)
@@ -71,3 +74,6 @@ src/
    npm run dev
    ```
 3. Open your browser at [http://localhost:5173](http://localhost:5173) (or the port shown in the console).
+
+### Deploying a React Vite project on Vercel
+ link to view the project: https://react-1-project-using-props-state-git-main-bahdawkas-projects.vercel.app
